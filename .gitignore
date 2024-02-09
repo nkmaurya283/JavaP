@@ -1,6 +1,6 @@
 /.idea/
 abc.json
-/target/
+*/target/surefire-reports/**
 */target/**
 **/META-INF/
 !.mvn/wrapper/maven-wrapper.jar
